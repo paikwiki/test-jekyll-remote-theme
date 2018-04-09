@@ -8,7 +8,7 @@ permalink: /
 
 ## Page
 
-- [Test](/test)
+- [Test](./test)
 
 ## Etc.
 
