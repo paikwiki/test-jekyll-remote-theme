@@ -1,0 +1,6 @@
+# ./_config.yml
+remote_theme: Squifi/jekyll-theme-terminal
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-remote-theme
