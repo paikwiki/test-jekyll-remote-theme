@@ -1,4 +1,4 @@
-# ./_config.yml
+baseurl: /test-jekyll-theme-terminal
 remote_theme: Squifi/jekyll-theme-terminal
 plugins:
   - jekyll-feed
